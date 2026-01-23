@@ -19,6 +19,15 @@ public class FileDataHandler
 
     public void Save(GameData data)
     {
-        string fullPath = 
+        string fullPath = Path.Combine(dataDirPath, dataFileName);
+        try
+        {
+            //create directiory path in case it doesn't already exist
+            Directory.CreateDirectory(Path.GetDirectoryName());
+        }
+        catch(Exception e)
+        {
+            Debug.LogError("Error ocurred trying to save data to file: " + fullPath + "\n" + e);
+        }
     }
 }
