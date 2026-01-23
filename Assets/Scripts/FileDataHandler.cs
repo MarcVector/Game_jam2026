@@ -23,7 +23,10 @@ public class FileDataHandler
         try
         {
             //create directiory path in case it doesn't already exist
-            Directory.CreateDirectory(Path.GetDirectoryName());
+            Directory.CreateDirectory(Path.GetDirectoryName(fullPath));
+            //serialize de c# data object into Jason
+            string dataToStore = JsonUtility.ToJson(data);//,true)
+
         }
         catch(Exception e)
         {
