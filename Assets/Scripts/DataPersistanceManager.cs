@@ -3,11 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
 using NUnit.Framework;
+using Unity.VisualScripting;
 
 public class DataPersistanceManager : MonoBehaviour
 {
+    [Header("File Storage Config")]
+    [SerializeField] private string fileName;
+
     private GameData gameData;
     private List<IDataPersistance> dataPersistanceObjects;
+    private FileDataHandler dataHandler;
 
     public static DataPersistanceManager instance { get; private set; }
 
@@ -22,6 +27,7 @@ public class DataPersistanceManager : MonoBehaviour
 
     private void Start()
     {
+        this.dataHandler = new FileDataHandler(Application.persistentDataPath, fileName);
         this.dataPersistanceObjects = FindAllDataPersistanceObjects();
         LoadGame();
     }
@@ -34,6 +40,7 @@ public class DataPersistanceManager : MonoBehaviour
     public void LoadGame()
     {
         //load files and translate them
+        this.gameData = dataHandler.Load();
         //if there is no data to load create new data
         if (this.gameData == null)
         {
@@ -56,6 +63,7 @@ public class DataPersistanceManager : MonoBehaviour
 
         //pass data to all scripts tp update
         //safe data to a file
+        dataHandler.Save(gameData);
     }
 
     private void OnApplicationQuit()
