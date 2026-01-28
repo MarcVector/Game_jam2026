@@ -34,9 +34,10 @@ public class Interactable : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other)
     {
         if (!other.CompareTag("Player")) return;
+
         Debug.Log("Entered");
         playerInside = true;
-        popUP=true;
+        popUP = true;
     }
 
     void OnTriggerExit2D(Collider2D other)
@@ -44,6 +45,6 @@ public class Interactable : MonoBehaviour
         if (!other.CompareTag("Player")) return;
 
         playerInside = false;
-        PopUpText.SetActive(false);
+        popUP = false;
     }
 }

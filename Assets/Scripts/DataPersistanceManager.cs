@@ -4,6 +4,7 @@ using UnityEngine;
 using System.Linq;
 using NUnit.Framework;
 using Unity.VisualScripting;
+using UnityEngine.SceneManagement;
 
 public class DataPersistanceManager : MonoBehaviour
 {
@@ -23,13 +24,40 @@ public class DataPersistanceManager : MonoBehaviour
             Debug.LogError("Found more than one Data Persistance Manager in the scene");
         }
         instance = this;
+
+        this.dataHandler = new FileDataHandler(Application.persistentDataPath, fileName);
+    }
+
+    private void OnEnable()
+    {
+        UnityEngine.SceneManagement.SceneManager.sceneLoaded += OnSceneLoaded;
+        UnityEngine.SceneManagement.SceneManager.sceneUnloaded += OnSceneUnloaded;
+    }
+
+    private void OnDisable()
+    {
+        UnityEngine.SceneManagement.SceneManager.sceneLoaded -= OnSceneLoaded;
+        UnityEngine.SceneManagement.SceneManager.sceneUnloaded -= OnSceneUnloaded; 
+    }
+
+    public void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        Debug.Log("OnSceneLoaded Called");
+        this.dataPersistanceObjects = FindAllDataPersistanceObjects();
+        LoadGame();
+    }
+
+    public void OnSceneUnloaded(Scene scene)
+    {
+        Debug.Log("OnSceneUnloaded called");
+        SaveGame();
     }
 
     private void Start()
     {
-        this.dataHandler = new FileDataHandler(Application.persistentDataPath, fileName);
-        this.dataPersistanceObjects = FindAllDataPersistanceObjects();
-        LoadGame();
+        //this.dataHandler = new FileDataHandler(Application.persistentDataPath, fileName);
+        //this.dataPersistanceObjects = FindAllDataPersistanceObjects();
+        //LoadGame();
     }
 
     public void NewGame()

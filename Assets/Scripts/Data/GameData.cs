@@ -11,9 +11,11 @@ public class GameData
     public Vector3 playerPosition;
     public int scene;
     public SerializableDisctionary<string, bool> objectsState;
+    public bool onHand;
     public GameData()
     {
         playerPosition = Vector3.zero;
         objectsState = new SerializableDisctionary<string, bool>();
+        onHand = false;
     }
 }
