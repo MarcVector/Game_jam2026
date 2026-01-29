@@ -42,6 +42,7 @@ public class ObjectPickups : MonoBehaviour, IDataPersistance
 
         //put iteam into inventory
         inventory.GetComponent<IventoryScript>().Obj = objectName;
+        inventory.GetComponent<IventoryScript>().RefreshInventory();
     }
 
     public void LoadData(GameData data)
