@@ -23,7 +23,7 @@ public class PickUpObj : MonoBehaviour, IDataPersistance
     
     public void LoadData(GameData data)
     {
-        data.objectsState.TryGetValue(id, out onHand);
+        data.ObjectState.TryGetValue(id, out onHand);
         if (onHand)
         {
             visual.gameObject.SetActive(false);
@@ -31,10 +31,10 @@ public class PickUpObj : MonoBehaviour, IDataPersistance
     }
     public void SaveData(ref GameData data)
     {
-        if (data.objectsState.ContainsKey(id))
+        if (data.ObjectState.ContainsKey(id))
         {
-            data.objectsState.Remove(id);
+            data.ObjectState.Remove(id);
         }
-        data.objectsState.Add(id, onHand);
+        data.ObjectState.Add(id, onHand);
     }
 }
