@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0cb426b827d39d34bb0a6a527cba77ab
+guid: 348021e9f418efa4fa397f341a75df54
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3870582607253728757
-    second: Dog1_0
+      213: -4270141950838957727
+    second: Drawer_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dog1_0
+      name: Drawer_0
       rect:
         serializedVersion: 2
-        x: 2239
-        y: 229
-        width: 602
-        height: 262
+        x: 0
+        y: 0
+        width: 4800
+        height: 2700
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5fde923cf5217b530800000000000000
-      internalID: 3870582607253728757
+      spriteID: 16910c715886db4c0800000000000000
+      internalID: -4270141950838957727
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Dog1_0: 3870582607253728757
+      Drawer_0: -4270141950838957727
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
