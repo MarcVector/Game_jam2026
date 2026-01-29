@@ -1,4 +1,5 @@
 using System.Numerics;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -9,6 +10,8 @@ public class ObjectPickups : MonoBehaviour, IDataPersistance
     public bool OnMap;
     public Sprite ObjImg;
     public SpriteRenderer rend;
+
+    public GameObject inventory;
 
     public GameObject PopUpText;
     bool playerInside;
@@ -35,6 +38,10 @@ public class ObjectPickups : MonoBehaviour, IDataPersistance
         Debug.Log("Picked up object");
         OnMap = false;
         gameObject.GetComponent<SpriteRenderer>().sprite = null;
+        //drop all other objects
+
+        //put iteam into inventory
+        inventory.GetComponent<IventoryScript>().Obj = objectName;
     }
 
     public void LoadData(GameData data)
@@ -51,6 +58,11 @@ public class ObjectPickups : MonoBehaviour, IDataPersistance
     }
     public void SaveData(ref GameData data)
     {
+        if (inventory.GetComponent<IventoryScript>().Obj != this.objectName)//no esta al inventary onMap = true
+        {
+            OnMap = true;
+        }
+
         if (data.ObjectPickUpsState.ContainsKey(objectName))
         {
             data.ObjectPickUpsState.Remove(objectName);

@@ -165,6 +165,7 @@ MonoBehaviour:
   OnMap: 1
   ObjImg: {fileID: 7167889258785000937, guid: e9fefb63e2b5291418b1a5e4fc7acbf2, type: 3}
   rend: {fileID: 4273970406149733530}
+  inventory: {fileID: 0}
   PopUpText: {fileID: 8914579975998795360}
 --- !u!1 &8914579975998795360
 GameObject:

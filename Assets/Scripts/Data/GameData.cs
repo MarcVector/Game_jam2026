@@ -13,6 +13,7 @@ public class GameData
     public SerializableDisctionary<string, bool> InteractablePlacerState;
     public SerializableDisctionary<string, bool> ObjectState;
     public SerializableDisctionary<string, bool> ObjectPickUpsState;
+    public string inventory;
     public bool onHand;
     public GameData()
     {
@@ -20,5 +21,6 @@ public class GameData
         InteractablePlacerState = new SerializableDisctionary<string, bool>();
         ObjectState = new SerializableDisctionary<string, bool>();
         onHand = false;
+        inventory = "";
     }
 }
