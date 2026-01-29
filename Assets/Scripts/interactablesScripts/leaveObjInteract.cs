@@ -35,11 +35,11 @@ public class leaveObjInteract : MonoBehaviour, IDataPersistance
 
     public void SaveData(ref GameData data)
     {
-        if (data.InteractablePlacerState.ContainsKey(nameId))
+        if (data.leaveObjectsState.ContainsKey(nameId))
         {
-            data.InteractablePlacerState.Remove(nameId);
+            data.leaveObjectsState.Remove(nameId);
         }
-        data.InteractablePlacerState.Add(nameId, completed);
+        data.leaveObjectsState.Add(nameId, completed);
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
