@@ -12,6 +12,7 @@ public class GameData
     public int scene;
     public SerializableDisctionary<string, bool> InteractablePlacerState;
     public SerializableDisctionary<string, bool> ObjectState;
+    public SerializableDisctionary<string, bool> ObjectPickUpsState;
     public bool onHand;
     public GameData()
     {
