@@ -4,6 +4,7 @@ using UnityEngine.InputSystem;
 public class Interactable : MonoBehaviour
 {
     public GameObject PopUpText;
+    //public GameObject parent;
 
     bool playerInside;
     bool popUP;

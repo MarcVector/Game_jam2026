@@ -10,12 +10,15 @@ public class GameData
     
     public Vector3 playerPosition;
     public int scene;
-    public SerializableDisctionary<string, bool> objectsState;
+    public SerializableDisctionary<string, bool> InteractablePlacerState;
+    public SerializableDisctionary<string, bool> ObjectState;
+    public SerializableDisctionary<string, bool> ObjectPickUpsState;
     public bool onHand;
     public GameData()
     {
         playerPosition = Vector3.zero;
-        objectsState = new SerializableDisctionary<string, bool>();
+        InteractablePlacerState = new SerializableDisctionary<string, bool>();
+        ObjectState = new SerializableDisctionary<string, bool>();
         onHand = false;
     }
 }
