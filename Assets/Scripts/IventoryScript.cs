@@ -11,6 +11,9 @@ public class IventoryScript : MonoBehaviour, IDataPersistance
     public Sprite tulips;
     public Sprite sunflowers;
     public Sprite trophy;
+    public Sprite scissors;
+    public Sprite violin;
+    public Sprite pills;
 
     public Sprite UIMask;
 
@@ -26,6 +29,15 @@ public class IventoryScript : MonoBehaviour, IDataPersistance
                 break;
             case "trophy":
                 ObjectImg.sprite = trophy;
+                break;
+            case "scissors":
+                ObjectImg.sprite = scissors;
+                break;
+            case "violin":
+                ObjectImg.sprite = violin;
+                break;
+            case "pills":
+                ObjectImg.sprite = pills;
                 break;
             case "":
                 ObjectImg.sprite = UIMask;
