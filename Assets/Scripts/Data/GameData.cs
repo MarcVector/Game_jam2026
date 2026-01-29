@@ -20,6 +20,7 @@ public class GameData
         playerPosition = Vector3.zero;
         InteractablePlacerState = new SerializableDisctionary<string, bool>();
         ObjectState = new SerializableDisctionary<string, bool>();
+        ObjectPickUpsState = new SerializableDisctionary<string, bool>();
         onHand = false;
         inventory = "";
     }

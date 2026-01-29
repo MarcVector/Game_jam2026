@@ -907,7 +907,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7870759047377040472, guid: 3c7caa93d2d879546b469bf711644324, type: 3}
       propertyPath: fileName
-      value: savedGame
+      value: data.jason
       objectReference: {fileID: 0}
     - target: {fileID: 8010382937005013417, guid: 3c7caa93d2d879546b469bf711644324, type: 3}
       propertyPath: m_Name
