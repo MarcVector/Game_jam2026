@@ -907,7 +907,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7870759047377040472, guid: 3c7caa93d2d879546b469bf711644324, type: 3}
       propertyPath: fileName
-      value: data.jason
+      value: data.json
       objectReference: {fileID: 0}
     - target: {fileID: 8010382937005013417, guid: 3c7caa93d2d879546b469bf711644324, type: 3}
       propertyPath: m_Name
@@ -1257,7 +1257,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1388070001966285624, guid: aa81f6b46a7ae6f4fab74b802c948b69, type: 3}
       propertyPath: m_Name
-      value: ObjectPickUp
+      value: Tullip
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
