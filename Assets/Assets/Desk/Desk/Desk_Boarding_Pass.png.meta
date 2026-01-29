@@ -1,0 +1,2509 @@
+fileFormatVersion: 2
+guid: d74fd1f619db9df42a80d582f23348d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8098984960900797623
+    second: Desk_Boarding_Pass_0
+  - first:
+      213: -1510563004235069458
+    second: Desk_Boarding_Pass_1
+  - first:
+      213: 959517174955289383
+    second: Desk_Boarding_Pass_2
+  - first:
+      213: 3055410832845324322
+    second: Desk_Boarding_Pass_3
+  - first:
+      213: 4329596289955451017
+    second: Desk_Boarding_Pass_4
+  - first:
+      213: 5189454548360671073
+    second: Desk_Boarding_Pass_5
+  - first:
+      213: -842726123388944144
+    second: Desk_Boarding_Pass_6
+  - first:
+      213: -1085727167539341155
+    second: Desk_Boarding_Pass_7
+  - first:
+      213: 4131237043715575900
+    second: Desk_Boarding_Pass_8
+  - first:
+      213: -4483496869435683360
+    second: Desk_Boarding_Pass_9
+  - first:
+      213: -5303884925851736977
+    second: Desk_Boarding_Pass_10
+  - first:
+      213: 4646800549791810250
+    second: Desk_Boarding_Pass_11
+  - first:
+      213: -502786939965601090
+    second: Desk_Boarding_Pass_12
+  - first:
+      213: 8349270681615626266
+    second: Desk_Boarding_Pass_13
+  - first:
+      213: 7178716605356597232
+    second: Desk_Boarding_Pass_14
+  - first:
+      213: 4841269505602166780
+    second: Desk_Boarding_Pass_15
+  - first:
+      213: -3425098803514947687
+    second: Desk_Boarding_Pass_16
+  - first:
+      213: -2811758254763031919
+    second: Desk_Boarding_Pass_17
+  - first:
+      213: 4733397708759287080
+    second: Desk_Boarding_Pass_18
+  - first:
+      213: -7937408501859151173
+    second: Desk_Boarding_Pass_19
+  - first:
+      213: -7699638150037434786
+    second: Desk_Boarding_Pass_20
+  - first:
+      213: -3738956244161029011
+    second: Desk_Boarding_Pass_21
+  - first:
+      213: 3860864267731133682
+    second: Desk_Boarding_Pass_22
+  - first:
+      213: -8803505349130286499
+    second: Desk_Boarding_Pass_23
+  - first:
+      213: 7291423896877780252
+    second: Desk_Boarding_Pass_24
+  - first:
+      213: 3399877489612665333
+    second: Desk_Boarding_Pass_25
+  - first:
+      213: 2615048129518829927
+    second: Desk_Boarding_Pass_26
+  - first:
+      213: -5817155463808529597
+    second: Desk_Boarding_Pass_27
+  - first:
+      213: 6015697420893194324
+    second: Desk_Boarding_Pass_28
+  - first:
+      213: -5322443294382668129
+    second: Desk_Boarding_Pass_29
+  - first:
+      213: 3286919291053489677
+    second: Desk_Boarding_Pass_30
+  - first:
+      213: -3880324381047427218
+    second: Desk_Boarding_Pass_31
+  - first:
+      213: 1195569885919305860
+    second: Desk_Boarding_Pass_32
+  - first:
+      213: 7322434776853992100
+    second: Desk_Boarding_Pass_33
+  - first:
+      213: -1250785696499467920
+    second: Desk_Boarding_Pass_34
+  - first:
+      213: -770904892145214086
+    second: Desk_Boarding_Pass_35
+  - first:
+      213: 3052833287293422678
+    second: Desk_Boarding_Pass_36
+  - first:
+      213: -3941272751976465495
+    second: Desk_Boarding_Pass_37
+  - first:
+      213: 1243467568329520063
+    second: Desk_Boarding_Pass_38
+  - first:
+      213: 2541568409744257710
+    second: Desk_Boarding_Pass_39
+  - first:
+      213: -3685863450777411877
+    second: Desk_Boarding_Pass_40
+  - first:
+      213: -8832096163121056528
+    second: Desk_Boarding_Pass_41
+  - first:
+      213: -2587624685310065777
+    second: Desk_Boarding_Pass_42
+  - first:
+      213: -6006265837663103156
+    second: Desk_Boarding_Pass_43
+  - first:
+      213: -2606830884722735241
+    second: Desk_Boarding_Pass_44
+  - first:
+      213: -5650069674501796966
+    second: Desk_Boarding_Pass_45
+  - first:
+      213: -5202842293305426675
+    second: Desk_Boarding_Pass_46
+  - first:
+      213: 6411106905841801083
+    second: Desk_Boarding_Pass_47
+  - first:
+      213: -8120510980977197372
+    second: Desk_Boarding_Pass_48
+  - first:
+      213: -6547636514384910103
+    second: Desk_Boarding_Pass_49
+  - first:
+      213: -6065415970881101110
+    second: Desk_Boarding_Pass_50
+  - first:
+      213: 1950593664430796926
+    second: Desk_Boarding_Pass_51
+  - first:
+      213: -7741123148248777547
+    second: Desk_Boarding_Pass_52
+  - first:
+      213: -3684694070939419897
+    second: Desk_Boarding_Pass_53
+  - first:
+      213: 7549934683948855191
+    second: Desk_Boarding_Pass_54
+  - first:
+      213: -1668160029406791685
+    second: Desk_Boarding_Pass_55
+  - first:
+      213: 952771547893074551
+    second: Desk_Boarding_Pass_56
+  - first:
+      213: 2735473309621971072
+    second: Desk_Boarding_Pass_57
+  - first:
+      213: -157033875455764466
+    second: Desk_Boarding_Pass_58
+  - first:
+      213: -7300050241430336451
+    second: Desk_Boarding_Pass_59
+  - first:
+      213: -3919672252856396543
+    second: Desk_Boarding_Pass_60
+  - first:
+      213: 7541227441445728337
+    second: Desk_Boarding_Pass_61
+  - first:
+      213: -4134879633376580737
+    second: Desk_Boarding_Pass_62
+  - first:
+      213: -4591110177959126970
+    second: Desk_Boarding_Pass_63
+  - first:
+      213: 482926111182580750
+    second: Desk_Boarding_Pass_64
+  - first:
+      213: 907435508284161436
+    second: Desk_Boarding_Pass_65
+  - first:
+      213: 3825797453317597587
+    second: Desk_Boarding_Pass_66
+  - first:
+      213: -9184066549947433029
+    second: Desk_Boarding_Pass_67
+  - first:
+      213: 1361006602256946060
+    second: Desk_Boarding_Pass_68
+  - first:
+      213: 8074942548844482792
+    second: Desk_Boarding_Pass_69
+  - first:
+      213: 6362205355674728725
+    second: Desk_Boarding_Pass_70
+  - first:
+      213: 1732354036178139076
+    second: Desk_Boarding_Pass_71
+  - first:
+      213: -1395343557634249322
+    second: Desk_Boarding_Pass_72
+  - first:
+      213: 7374736368122673459
+    second: Desk_Boarding_Pass_73
+  - first:
+      213: -506902962292245737
+    second: Desk_Boarding_Pass_74
+  - first:
+      213: -5406599907427768831
+    second: Desk_Boarding_Pass_75
+  - first:
+      213: -417553149502114371
+    second: Desk_Boarding_Pass_76
+  - first:
+      213: 2511140047312518586
+    second: Desk_Boarding_Pass_77
+  - first:
+      213: 4050295575574211685
+    second: Desk_Boarding_Pass_78
+  - first:
+      213: 7093859901347855504
+    second: Desk_Boarding_Pass_79
+  - first:
+      213: 806969182493850695
+    second: Desk_Boarding_Pass_80
+  - first:
+      213: 7779960961461415763
+    second: Desk_Boarding_Pass_81
+  - first:
+      213: -2761002219704115580
+    second: Desk_Boarding_Pass_82
+  - first:
+      213: 819147424584570981
+    second: Desk_Boarding_Pass_83
+  - first:
+      213: -3147285087317882359
+    second: Desk_Boarding_Pass_84
+  - first:
+      213: -2047950088386544223
+    second: Desk_Boarding_Pass_85
+  - first:
+      213: -8706255621044498067
+    second: Desk_Boarding_Pass_86
+  - first:
+      213: -361004280072172501
+    second: Desk_Boarding_Pass_87
+  - first:
+      213: 2785952638649442228
+    second: Desk_Boarding_Pass_88
+  - first:
+      213: 4682997595270394699
+    second: Desk_Boarding_Pass_89
+  - first:
+      213: 1619217648977503882
+    second: Desk_Boarding_Pass_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2089
+        width: 972
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b419b369ef556070800000000000000
+      internalID: 8098984960900797623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1849
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7c8b173f6690be0800000000000000
+      internalID: -1510563004235069458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_2
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1849
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ba81179c3e05d00800000000000000
+      internalID: 959517174955289383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1849
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22040a6d6fff66a20800000000000000
+      internalID: 3055410832845324322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_4
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1879
+        width: 132
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980d4a3f2e0d51c30800000000000000
+      internalID: 4329596289955451017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_5
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1849
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fa215ba65a40840800000000000000
+      internalID: 5189454548360671073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_6
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1849
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0c5744e090e44f0800000000000000
+      internalID: -842726123388944144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_7
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1849
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9893dfb4e8bee0f0800000000000000
+      internalID: -1085727167539341155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1619
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c501a99f33a155930800000000000000
+      internalID: 4131237043715575900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1619
+        width: 12
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edc5b11a5b67c1c0800000000000000
+      internalID: -4483496869435683360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_10
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1659
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64ee09d2c0d466b0800000000000000
+      internalID: -5303884925851736977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1619
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac24e60fa70cc7040800000000000000
+      internalID: 4646800549791810250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_12
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1619
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba05a521fdb509f0800000000000000
+      internalID: -502786939965601090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1619
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a107847d2719ed370800000000000000
+      internalID: 8349270681615626266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1619
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff5a75d7bcef9360800000000000000
+      internalID: 7178716605356597232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_15
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1619
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff195717f4af2340800000000000000
+      internalID: 4841269505602166780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_16
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1619
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99740eff8ca9770d0800000000000000
+      internalID: -3425098803514947687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_17
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1619
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192c39eb3c0aaf8d0800000000000000
+      internalID: -2811758254763031919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_18
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1619
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825ce33332860b140800000000000000
+      internalID: 4733397708759287080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_19
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1619
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb215819509a8d190800000000000000
+      internalID: -7937408501859151173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_20
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1619
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e09ff95e3652590800000000000000
+      internalID: -7699638150037434786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_21
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1619
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c9d041b1f8c1cc0800000000000000
+      internalID: -3738956244161029011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_22
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1619
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4ec14889b849530800000000000000
+      internalID: 3860864267731133682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_23
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1539
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a86d6278aa3d580800000000000000
+      internalID: -8803505349130286499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_24
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1549
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dc1301767503560800000000000000
+      internalID: 7291423896877780252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1539
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1b530409ace2f20800000000000000
+      internalID: 3399877489612665333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_26
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1539
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761058e2b648a4420800000000000000
+      internalID: 2615048129518829927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_27
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1539
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b48702def454fa0800000000000000
+      internalID: -5817155463808529597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_28
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1539
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45882988eec0c7350800000000000000
+      internalID: 6015697420893194324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_29
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1549
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f964925f502e226b0800000000000000
+      internalID: -5322443294382668129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_30
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1539
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e3f9c2eab7d9d20800000000000000
+      internalID: 3286919291053489677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_31
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1539
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f6166c881562ac0800000000000000
+      internalID: -3880324381047427218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_32
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1539
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480ef521a74879010800000000000000
+      internalID: 1195569885919305860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_33
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1539
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2595532a38e9560800000000000000
+      internalID: 7322434776853992100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_34
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1539
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0797206390154aee0800000000000000
+      internalID: -1250785696499467920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_35
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1329
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dd214c5123d45f0800000000000000
+      internalID: -770904892145214086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_36
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1329
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ccc9f33b7dd5a20800000000000000
+      internalID: 3052833287293422678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_37
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1329
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab34875059cd49c0800000000000000
+      internalID: -3941272751976465495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_38
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1329
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3fffb4a2fa14110800000000000000
+      internalID: 1243467568329520063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_39
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1329
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2392bb007754320800000000000000
+      internalID: 2541568409744257710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_40
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1329
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde11d558be29dcc0800000000000000
+      internalID: -3685863450777411877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_41
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1329
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4341785571e6580800000000000000
+      internalID: -8832096163121056528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_42
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1329
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83cf0cfe09e61cd0800000000000000
+      internalID: -2587624685310065777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_43
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1329
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47d68f0b0575aca0800000000000000
+      internalID: -6006265837663103156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_44
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1369
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77785963f1da2dbd0800000000000000
+      internalID: -2606830884722735241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_45
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1329
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b0d1ff09be691b0800000000000000
+      internalID: -5650069674501796966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_46
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1329
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0db625008acbc7b0800000000000000
+      internalID: -5202842293305426675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_47
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1329
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7711cb63c3d8f850800000000000000
+      internalID: 6411106905841801083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_48
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1249
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cef13089462e4f80800000000000000
+      internalID: -8120510980977197372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_49
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1249
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e5b1f74f1225a0800000000000000
+      internalID: -6547636514384910103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_50
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1249
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2a6a87f4053dba0800000000000000
+      internalID: -6065415970881101110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_51
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1249
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7076856a96e11b10800000000000000
+      internalID: 1950593664430796926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_52
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1249
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcf31ac281029490800000000000000
+      internalID: -7741123148248777547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_53
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1249
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bfaabc3465ddcc0800000000000000
+      internalID: -3684694070939419897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_54
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1249
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f2c220891c6c860800000000000000
+      internalID: 7549934683948855191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_55
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1279
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7f3b2aa4189d8e0800000000000000
+      internalID: -1668160029406791685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_56
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1249
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a0440ccace83d00800000000000000
+      internalID: 952771547893074551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_57
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1249
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08864906b7a56f520800000000000000
+      internalID: 2735473309621971072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_58
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1249
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0891c3b58a12ddf0800000000000000
+      internalID: -157033875455764466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_59
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1249
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c4a059bf201ba90800000000000000
+      internalID: -7300050241430336451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_60
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1259
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1051a847ad68a99c0800000000000000
+      internalID: -3919672252856396543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_61
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150fcc12762d7a860800000000000000
+      internalID: 7541227441445728337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_62
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b679781e4fd96c0800000000000000
+      internalID: -4134879633376580737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_63
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 919
+        width: 22
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648d01e2e991940c0800000000000000
+      internalID: -4591110177959126970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_64
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 919
+        width: 22
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c6ccd4db2b3b600800000000000000
+      internalID: 482926111182580750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_65
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d7ad779cbd79c00800000000000000
+      internalID: 907435508284161436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_66
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 919
+        width: 22
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399e69b8386f71530800000000000000
+      internalID: 3825797453317597587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_67
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbff5d0d124ab8080800000000000000
+      internalID: -9184066549947433029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_68
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c839c783b4443e210800000000000000
+      internalID: 1361006602256946060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_69
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 919
+        width: 22
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0109d1775ff0070800000000000000
+      internalID: 8074942548844482792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_70
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 919
+        width: 22
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519741500181b4850800000000000000
+      internalID: 6362205355674728725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_71
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7bc9741de8a0810800000000000000
+      internalID: 1732354036178139076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_72
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69da49b5d6eb2ace0800000000000000
+      internalID: -1395343557634249322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_73
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 919
+        width: 22
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3393b1e57a3585660800000000000000
+      internalID: 7374736368122673459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_74
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b3af4017e17f8f0800000000000000
+      internalID: -506902962292245737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_75
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106ab139706e7f4b0800000000000000
+      internalID: -5406599907427768831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_76
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5b4117f9d843af0800000000000000
+      internalID: -417553149502114371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_77
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdf155819c59d220800000000000000
+      internalID: 2511140047312518586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_78
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cef69dd5a853830800000000000000
+      internalID: 4050295575574211685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_79
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 919
+        width: 22
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cf932def3727260800000000000000
+      internalID: 7093859901347855504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_80
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cbb3b223ee23b00800000000000000
+      internalID: 806969182493850695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_81
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 919
+        width: 22
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f60524649f7fb60800000000000000
+      internalID: 7779960961461415763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_82
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e987e0c13fea9d0800000000000000
+      internalID: -2761002219704115580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_83
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5681a0d1e323e5b00800000000000000
+      internalID: 819147424584570981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_84
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 919
+        width: 22
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a888b53e89254d0800000000000000
+      internalID: -3147285087317882359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_85
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad7dffbe383493e0800000000000000
+      internalID: -2047950088386544223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_86
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6115efe3aa2d2780800000000000000
+      internalID: -8706255621044498067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_87
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 919
+        width: 22
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c07eb15847dfaf0800000000000000
+      internalID: -361004280072172501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_88
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 919
+        width: 22
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf13cb0a21b9a620800000000000000
+      internalID: 2785952638649442228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_89
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 919
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43b91650895df040800000000000000
+      internalID: 4682997595270394699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_Boarding_Pass_90
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 919
+        width: 22
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86e85d6fdd987610800000000000000
+      internalID: 1619217648977503882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Desk_Boarding_Pass_0: 8098984960900797623
+      Desk_Boarding_Pass_1: -1510563004235069458
+      Desk_Boarding_Pass_10: -5303884925851736977
+      Desk_Boarding_Pass_11: 4646800549791810250
+      Desk_Boarding_Pass_12: -502786939965601090
+      Desk_Boarding_Pass_13: 8349270681615626266
+      Desk_Boarding_Pass_14: 7178716605356597232
+      Desk_Boarding_Pass_15: 4841269505602166780
+      Desk_Boarding_Pass_16: -3425098803514947687
+      Desk_Boarding_Pass_17: -2811758254763031919
+      Desk_Boarding_Pass_18: 4733397708759287080
+      Desk_Boarding_Pass_19: -7937408501859151173
+      Desk_Boarding_Pass_2: 959517174955289383
+      Desk_Boarding_Pass_20: -7699638150037434786
+      Desk_Boarding_Pass_21: -3738956244161029011
+      Desk_Boarding_Pass_22: 3860864267731133682
+      Desk_Boarding_Pass_23: -8803505349130286499
+      Desk_Boarding_Pass_24: 7291423896877780252
+      Desk_Boarding_Pass_25: 3399877489612665333
+      Desk_Boarding_Pass_26: 2615048129518829927
+      Desk_Boarding_Pass_27: -5817155463808529597
+      Desk_Boarding_Pass_28: 6015697420893194324
+      Desk_Boarding_Pass_29: -5322443294382668129
+      Desk_Boarding_Pass_3: 3055410832845324322
+      Desk_Boarding_Pass_30: 3286919291053489677
+      Desk_Boarding_Pass_31: -3880324381047427218
+      Desk_Boarding_Pass_32: 1195569885919305860
+      Desk_Boarding_Pass_33: 7322434776853992100
+      Desk_Boarding_Pass_34: -1250785696499467920
+      Desk_Boarding_Pass_35: -770904892145214086
+      Desk_Boarding_Pass_36: 3052833287293422678
+      Desk_Boarding_Pass_37: -3941272751976465495
+      Desk_Boarding_Pass_38: 1243467568329520063
+      Desk_Boarding_Pass_39: 2541568409744257710
+      Desk_Boarding_Pass_4: 4329596289955451017
+      Desk_Boarding_Pass_40: -3685863450777411877
+      Desk_Boarding_Pass_41: -8832096163121056528
+      Desk_Boarding_Pass_42: -2587624685310065777
+      Desk_Boarding_Pass_43: -6006265837663103156
+      Desk_Boarding_Pass_44: -2606830884722735241
+      Desk_Boarding_Pass_45: -5650069674501796966
+      Desk_Boarding_Pass_46: -5202842293305426675
+      Desk_Boarding_Pass_47: 6411106905841801083
+      Desk_Boarding_Pass_48: -8120510980977197372
+      Desk_Boarding_Pass_49: -6547636514384910103
+      Desk_Boarding_Pass_5: 5189454548360671073
+      Desk_Boarding_Pass_50: -6065415970881101110
+      Desk_Boarding_Pass_51: 1950593664430796926
+      Desk_Boarding_Pass_52: -7741123148248777547
+      Desk_Boarding_Pass_53: -3684694070939419897
+      Desk_Boarding_Pass_54: 7549934683948855191
+      Desk_Boarding_Pass_55: -1668160029406791685
+      Desk_Boarding_Pass_56: 952771547893074551
+      Desk_Boarding_Pass_57: 2735473309621971072
+      Desk_Boarding_Pass_58: -157033875455764466
+      Desk_Boarding_Pass_59: -7300050241430336451
+      Desk_Boarding_Pass_6: -842726123388944144
+      Desk_Boarding_Pass_60: -3919672252856396543
+      Desk_Boarding_Pass_61: 7541227441445728337
+      Desk_Boarding_Pass_62: -4134879633376580737
+      Desk_Boarding_Pass_63: -4591110177959126970
+      Desk_Boarding_Pass_64: 482926111182580750
+      Desk_Boarding_Pass_65: 907435508284161436
+      Desk_Boarding_Pass_66: 3825797453317597587
+      Desk_Boarding_Pass_67: -9184066549947433029
+      Desk_Boarding_Pass_68: 1361006602256946060
+      Desk_Boarding_Pass_69: 8074942548844482792
+      Desk_Boarding_Pass_7: -1085727167539341155
+      Desk_Boarding_Pass_70: 6362205355674728725
+      Desk_Boarding_Pass_71: 1732354036178139076
+      Desk_Boarding_Pass_72: -1395343557634249322
+      Desk_Boarding_Pass_73: 7374736368122673459
+      Desk_Boarding_Pass_74: -506902962292245737
+      Desk_Boarding_Pass_75: -5406599907427768831
+      Desk_Boarding_Pass_76: -417553149502114371
+      Desk_Boarding_Pass_77: 2511140047312518586
+      Desk_Boarding_Pass_78: 4050295575574211685
+      Desk_Boarding_Pass_79: 7093859901347855504
+      Desk_Boarding_Pass_8: 4131237043715575900
+      Desk_Boarding_Pass_80: 806969182493850695
+      Desk_Boarding_Pass_81: 7779960961461415763
+      Desk_Boarding_Pass_82: -2761002219704115580
+      Desk_Boarding_Pass_83: 819147424584570981
+      Desk_Boarding_Pass_84: -3147285087317882359
+      Desk_Boarding_Pass_85: -2047950088386544223
+      Desk_Boarding_Pass_86: -8706255621044498067
+      Desk_Boarding_Pass_87: -361004280072172501
+      Desk_Boarding_Pass_88: 2785952638649442228
+      Desk_Boarding_Pass_89: 4682997595270394699
+      Desk_Boarding_Pass_9: -4483496869435683360
+      Desk_Boarding_Pass_90: 1619217648977503882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
