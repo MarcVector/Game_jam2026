@@ -4,6 +4,7 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
+    [SerializeField] private Animator animator;
     public float speed = 4f;
     public InputAction moveAction;
 
@@ -30,6 +31,16 @@ public class PlayerController : MonoBehaviour
             sr.flipX = false;
         else if (currentInput < -0.01f)
             sr.flipX = true;
+
+        if (currentInput != 0)
+        {
+            animator.SetBool("isRunning", true);
+        }
+        else
+        {
+            animator.SetBool("isRunning", false);
+        }
+
     }
 
     void FixedUpdate()
