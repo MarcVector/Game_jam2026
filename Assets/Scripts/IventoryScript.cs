@@ -14,6 +14,7 @@ public class IventoryScript : MonoBehaviour, IDataPersistance
     public Sprite scissors;
     public Sprite violin;
     public Sprite pills;
+    public Sprite phone;
 
     public Sprite UIMask;
 
@@ -38,6 +39,9 @@ public class IventoryScript : MonoBehaviour, IDataPersistance
                 break;
             case "pills":
                 ObjectImg.sprite = pills;
+                break;
+            case "phone":
+                ObjectImg.sprite = phone;
                 break;
             case "":
                 ObjectImg.sprite = UIMask;

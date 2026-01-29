@@ -350,6 +350,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 771420004}
     m_Modifications:
+    - target: {fileID: 2293908336837938465, guid: cceb2d8a1035419469cd532999e49f4c, type: 3}
+      propertyPath: phone
+      value: 
+      objectReference: {fileID: 3208830253879797258, guid: 69a8708f2a312cb4e9554e9c90baa3b1, type: 3}
+    - target: {fileID: 2293908336837938465, guid: cceb2d8a1035419469cd532999e49f4c, type: 3}
+      propertyPath: pills
+      value: 
+      objectReference: {fileID: 8061819414894329640, guid: c2c6da4e553dd794daadab406ab0aab8, type: 3}
+    - target: {fileID: 2293908336837938465, guid: cceb2d8a1035419469cd532999e49f4c, type: 3}
+      propertyPath: violin
+      value: 
+      objectReference: {fileID: 1187281359185252461, guid: a08837e206f38bb4b90847d9e5cf5378, type: 3}
+    - target: {fileID: 2293908336837938465, guid: cceb2d8a1035419469cd532999e49f4c, type: 3}
+      propertyPath: scissors
+      value: 
+      objectReference: {fileID: 288472935114218761, guid: ecb183c9607898f4d98c5130761cc210, type: 3}
     - target: {fileID: 2591714772080908728, guid: cceb2d8a1035419469cd532999e49f4c, type: 3}
       propertyPath: m_Name
       value: Inventory
@@ -663,6 +679,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Nightstand
       objectReference: {fileID: 0}
+    - target: {fileID: 539390414200286034, guid: 146bf83b34d6a0e4ebf9645d7c29aa03, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2867293575545146701, guid: 146bf83b34d6a0e4ebf9645d7c29aa03, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -781,6 +801,11 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 2867293575545146701, guid: 146bf83b34d6a0e4ebf9645d7c29aa03, type: 3}
   m_PrefabInstance: {fileID: 1020421966}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1062471603 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2591714772080908728, guid: cceb2d8a1035419469cd532999e49f4c, type: 3}
+  m_PrefabInstance: {fileID: 451870383}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1073487803
 GameObject:
   m_ObjectHideFlags: 0
@@ -798,7 +823,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1073487804
 RectTransform:
   m_ObjectHideFlags: 0
@@ -920,6 +945,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: back_sprite
       objectReference: {fileID: 0}
+    - target: {fileID: 3521324922633726872, guid: f7d6fae551449ff41867bc6cfb7fcd1b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5181438895791353501, guid: f7d6fae551449ff41867bc6cfb7fcd1b, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -937,6 +966,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4137156997235131510, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
+      propertyPath: nameId
+      value: pills_placer
+      objectReference: {fileID: 0}
+    - target: {fileID: 4137156997235131510, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
+      propertyPath: complete
+      value: 
+      objectReference: {fileID: 7045693216255126171, guid: 4d7ae463f53e7f74f8e265a2fac0203b, type: 3}
+    - target: {fileID: 4137156997235131510, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
+      propertyPath: inventory
+      value: 
+      objectReference: {fileID: 1062471603}
+    - target: {fileID: 4137156997235131510, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
+      propertyPath: ObjectName
+      value: pills
+      objectReference: {fileID: 0}
+    - target: {fileID: 4137156997235131510, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
+      propertyPath: uncomplete
+      value: 
+      objectReference: {fileID: 3635931825801326879, guid: 614c4bf9a6167074fb2e45d1d49eea12, type: 3}
+    - target: {fileID: 6227752903638799080, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 3635931825801326879, guid: 614c4bf9a6167074fb2e45d1d49eea12, type: 3}
     - target: {fileID: 6479627254659805839, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -970,6 +1023,18 @@ PrefabInstance:
       value: 52.27118
       objectReference: {fileID: 0}
     - target: {fileID: 6479627254659805839, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.24992
+      objectReference: {fileID: 0}
+    - target: {fileID: 6479627254659805839, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.24992
+      objectReference: {fileID: 0}
+    - target: {fileID: 6479627254659805839, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.12496
+      objectReference: {fileID: 0}
+    - target: {fileID: 6479627254659805839, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -979,7 +1044,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6479627254659805839, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -3
       objectReference: {fileID: 0}
     - target: {fileID: 6479627254659805839, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
       propertyPath: m_LocalRotation.w
@@ -999,11 +1064,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6479627254659805839, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 457.16757
+      value: -3.32
       objectReference: {fileID: 0}
     - target: {fileID: 6479627254659805839, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 230.20988
+      value: -3.55
       objectReference: {fileID: 0}
     - target: {fileID: 6479627254659805839, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1019,7 +1084,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7206255751092526761, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
       propertyPath: m_Name
-      value: trophy_placer
+      value: pills_placer
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978080576321514362, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.543
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978080576321514362, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.543
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978080576321514362, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.086
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978080576321514362, guid: 08903faf3aa95d04095f63a34dde7a66, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 5.07
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
