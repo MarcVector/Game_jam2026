@@ -637,7 +637,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2d986a8d6670644d941b52f0b0f4579, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PopUpText: {fileID: 500024255}
 --- !u!1001 &604330728
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -660,7 +659,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4920287249396497538, guid: 80c0fb0b9b9b8154d845ab88b1f0fc6a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Trophy
+      value: Scene1Trophy
       objectReference: {fileID: 0}
     - target: {fileID: 6253090847890754216, guid: 80c0fb0b9b9b8154d845ab88b1f0fc6a, type: 3}
       propertyPath: m_Sprite

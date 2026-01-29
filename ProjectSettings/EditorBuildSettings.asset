@@ -17,6 +17,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sunflower.unity
     guid: 98f5020091101ed4abd6dd8529d525fa
+  - enabled: 1
+    path: Assets/Scenes/Trophy.unity
+    guid: 881249924656ef2468109c77c0d5cbea
+  - enabled: 1
+    path: Assets/Scenes/Suitcase.unity
+    guid: e6d025d6c3e2481498a1a1b6eaed719b
+  - enabled: 1
+    path: Assets/Scenes/Pills.unity
+    guid: 8f855f453eba3294989182dbc9a49eec
+  - enabled: 1
+    path: Assets/Scenes/Violin.unity
+    guid: 488c2415ae0761043ab8384f7e0fa100
+  - enabled: 1
+    path: Assets/Scenes/Scene1Trophy.unity
+    guid: 837ca0e9fd2a9e4469623940d6e99d31
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 528621748afaabb4e8aec5f43373be81, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

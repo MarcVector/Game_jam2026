@@ -1,7 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using UnityEngine.InputSystem;
 
 public class DoorScript : MonoBehaviour
@@ -26,14 +23,13 @@ public class DoorScript : MonoBehaviour
 
         if (Keyboard.current.spaceKey.wasPressedThisFrame)
         {
-            Interact();
+            UnityEngine.SceneManagement.SceneManager.LoadScene("Oasis");
         }
     }
 
     void Interact()
     {
-        //Debug.Log("Interacted with object");
-        UnityEngine.SceneManagement.SceneManager.LoadScene("EscenaBase");
+        Debug.Log("Interacted with object");
     }
 
     void OnTriggerEnter2D(Collider2D other)
